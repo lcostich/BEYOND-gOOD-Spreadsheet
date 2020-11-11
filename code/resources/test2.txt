@@ -1,0 +1,6 @@
+B2 =(CONCAT A1 A2)
+A1 3
+A2 "a"
+B1 true
+B100 "far"
+B3 =(SUM B1:B3)

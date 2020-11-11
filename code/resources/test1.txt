@@ -1,0 +1,9 @@
+A1 5
+A2 6
+A3 =(SUM A1 A1:A2)
+A4 =(< A2 A1)
+B1 true
+B2 =(CONCAT A1 B3)
+B3 "aaaaaaaaaaaaaaaa"
+Z5 "far"
+Z6 =(SUM A1:A3)

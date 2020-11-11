@@ -1,0 +1,9 @@
+A2 6.000000
+B3 "aaaaaaaaaaaaaaaa"
+A1 5.000000
+B2 =(CONCAT A1 B3)
+B1 true
+Z6 =(SUM A1:A3)
+Z5 "far"
+A4 =(< A2 A1)
+A3 =(SUM A1 A1:A2)
