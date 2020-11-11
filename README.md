@@ -1,5 +1,5 @@
 # BEYOND-gOOD-Spreadsheet
-CS3500 (Object-Oriented Design) F19 Project - A Spreadsheet Program by Lee Costich and Lowell Camp, 2019.
+CS3500 (Object-Oriented Design) F19 Project - A Spreadsheet Program by [Lee Costich](https://github.com/lcostich) and [Lowell Camp](https://github.com/camplowell), 2019.
 
 built using the [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming) development technique.
 
